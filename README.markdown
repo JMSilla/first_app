@@ -2,4 +2,4 @@
 
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
-by [JMSilla](http://michaelhartl.com/).
+by [JMSilla](http://joindiaspora.com/u/JMSilla/).
